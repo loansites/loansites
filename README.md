@@ -41,8 +41,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=flloraflin&show_icons=true&theme=dracula&title_color=ff79c6&icon_color=8be9fd&text_color=f8f8f2&bg_color=282a36" alt="flloraflin's GitHub stats" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=flloraflin&theme=dracula&background=282a36&border=ff79c6&ring=bd93f9" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=loansites&show_icons=true&theme=dracula&title_color=ff79c6&icon_color=8be9fd&text_color=f8f8f2&bg_color=282a36" alt="loansites's GitHub stats" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=loansites&theme=dracula&background=282a36&border=ff79c6&ring=bd93f9" alt="Streak GitHub loansites" width="400"/>
 </div>
 
 ---
@@ -50,7 +50,7 @@
 ## 🌐 Find Me
 
 <p align="center">
-  <a href="https://github.com/flloraflin">
+  <a href="https://github.com/loansites">
     <img src="https://img.shields.io/badge/GitHub-%23333333.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
